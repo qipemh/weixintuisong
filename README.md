@@ -31,7 +31,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 
 句子{{note_en.DATA}} 
-{句子{note_ch.DATA}}
+句子{{note_ch.DATA}}
 
 
 天气key生成教程
