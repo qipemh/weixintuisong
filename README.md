@@ -14,7 +14,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 模板内容如下：
 
-{{date.DATA}} 
+好好{{date.DATA}} 
 
 地区：地区{{region.DATA}} 
 
@@ -26,12 +26,12 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 今天是我们恋爱的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+生日1{{birthday1.DATA}} 
+生日2{{birthday2.DATA}}
 
 
-{{note_en.DATA}} 
-{{note_ch.DATA}}
+句子{{note_en.DATA}} 
+{句子{note_ch.DATA}}
 
 
 天气key生成教程
