@@ -146,7 +146,7 @@ def send_message(to_user, access_token, region_name, weather, temp, wind_dir, no
                 "color": get_color()
             },
             "region": {
-                "value": region_name,
+                "value": 🌍region_name,
                 "color": get_color()
             },
             "weather": {
