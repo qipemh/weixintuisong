@@ -16,7 +16,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 好好{{date.DATA}} 
 
-地区：地区{{region.DATA}} 
+地区：🌍{{region.DATA}} 
 
 天气：天气{{weather.DATA}} 
 
